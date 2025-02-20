@@ -24,9 +24,11 @@ The company specializes in managing accounts receivable for B2B transactions, fo
 
 
 **Looker Dashboard**
+
 https://s.id/Customer-Retention-Cohort_Analysis-looker
 
 **Power Point**
+
 https://s.id/Customer-Retention-Cohort_Analysis-ppt
 
 ## Contribution
