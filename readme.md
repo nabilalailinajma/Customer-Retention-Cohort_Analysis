@@ -11,7 +11,7 @@ The company specializes in managing accounts receivable for B2B transactions, fo
 ## Improving Customer Retention:
 - Understanding customer retention trends over time.
 - Identifying Customer Patterns: Analyzing how many businesses remain active after their first transaction or invoice issuance.
-3. Exploring Relationships: Investigating the correlation between customer retention and factors such as currency, business line, and payment terms.
+- Exploring Relationships: Investigating the correlation between customer retention and factors such as currency, business line, and payment terms.
 
 ## Project Organization
     ├── readme.md                            <- The top-level README for developers using this project
