@@ -14,7 +14,7 @@ The company specializes in managing accounts receivable for B2B transactions, fo
 - Exploring Relationships: Investigating the correlation between customer retention and factors such as currency, business line, and payment terms.
 
 ## Project Organization
-    ├── readme.md                            <- The top-level README for developers using this project
+    ├── readme.md                               <- The top-level README for developers using this project
     |
     ├── data
     │   ├── dataset.csv                         <- The original data
