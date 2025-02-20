@@ -16,14 +16,13 @@ The company specializes in managing accounts receivable for B2B transactions, fo
 - Investigating the correlation between customer retention and factors such as currency, business line, and payment terms.
 
 ## Project Organization
- ├── readme.md                               <- The top-level README for developers using this project
- │
- ├── data
- │   ├── dataset.csv                         <- The original data
- │
- └── notebooks
-    ├── customer-retention-cohort.ipynb     <- Customer Retention Analysis with Cohort Notebook 
-
+├── readme.md                            <- The top-level README for developers using this project
+|
+├── data
+│   ├── dataset.csv                         <- The original data
+│
+└── notebooks   
+    └── customer-retention-cohort.ipynb     <- Customer Retention Analysis with Cohort Notebook 
 
 **Looker Dashboard**
 https://s.id/Customer-Retention-Cohort_Analysis-looker
