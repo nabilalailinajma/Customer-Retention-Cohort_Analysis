@@ -9,11 +9,9 @@ This project analyzes customer retention in a B2B accounts receivable management
 The company specializes in managing accounts receivable for B2B transactions, focusing on invoice management by tracking and managing invoices issued to buyers, payment collection to ensure timely payments for overdue invoices, customer communication through reminders and follow-ups for outstanding payments, and cash flow optimization by streamlining the accounts receivable process for businesses.
 
 ## Improving Customer Retention:
-1. Understanding customer retention trends over time.
-2. Identifying Customer Patterns:
-- Analyzing how many businesses remain active after their first transaction or invoice issuance.
-3. Exploring Relationships:
-- Investigating the correlation between customer retention and factors such as currency, business line, and payment terms.
+- Understanding customer retention trends over time.
+- Identifying Customer Patterns: Analyzing how many businesses remain active after their first transaction or invoice issuance.
+3. Exploring Relationships: Investigating the correlation between customer retention and factors such as currency, business line, and payment terms.
 
 ## Project Organization
     ├── readme.md                            <- The top-level README for developers using this project
